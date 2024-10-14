@@ -1,0 +1,11 @@
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\bin\Debug\net8.0\TaskProject.Domain.deps.json
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\bin\Debug\net8.0\TaskProject.Domain.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\bin\Debug\net8.0\TaskProject.Domain.pdb
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\TaskProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\TaskProject.Domain.AssemblyInfoInputs.cache
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\TaskProject.Domain.AssemblyInfo.cs
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\TaskProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\TaskProject.Domain.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\refint\TaskProject.Domain.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\TaskProject.Domain.pdb
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\Domain\obj\Debug\net8.0\ref\TaskProject.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\bin\Debug\net8.0\TaskProject.Application.deps.json
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\bin\Debug\net8.0\TaskProject.Application.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\bin\Debug\net8.0\TaskProject.Application.pdb
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProject.Application.AssemblyInfoInputs.cache
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProject.Application.AssemblyInfo.cs
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProject.Application.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\refint\TaskProject.Application.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProject.Application.pdb
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\ref\TaskProject.Application.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProject.Application.csproj.AssemblyReference.cache
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\bin\Debug\net8.0\TaskProject.Domain.dll
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\bin\Debug\net8.0\TaskProject.Domain.pdb
+C:\Users\sepeh\OneDrive\Desktop\Programming\interviewSample\RiraTaskSample\TaskProject\TaskProject.Application\obj\Debug\net8.0\TaskProj.7AB84654.Up2Date
